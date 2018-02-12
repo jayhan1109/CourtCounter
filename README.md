@@ -1,1 +1,4 @@
-Udacity CourtCounter application
+Udacity Android Basic Nanodegree
+================
+CourtCounter application
+-----------
